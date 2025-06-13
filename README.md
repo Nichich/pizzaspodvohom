@@ -1,6 +1,6 @@
 # Y Ashota
 Это веб-приложение для шашлычки написано с помощью Vue и сборщика Vite, а сам сайт задеплоен через GitHub pages
-
+ссылка на деплой: https://nichich.github.io/pizzaspodvohom/
 ## Рекомендуемый IDE
 
 [VSC](https://code.visualstudio.com/)
